@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aruna Typicode</string>
+    <string name="search">Type here to search user</string>
+    <string name="search_user">Search User</string>
+    <string name="userid">UserID</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="colon">:</string>
+    <string name="auth">Made by Laksamana Akbar Dzulfikar</string>
+</resources>
